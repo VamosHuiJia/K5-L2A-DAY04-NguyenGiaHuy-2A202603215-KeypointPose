@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603215",
+ "ten": "NguyenGiaHuy",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "huy",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000137767.jpg",
+  "000000240340.jpg",
+  "000000399983.jpg",
+  "000000429594.jpg",
+  "000000451084.jpg",
+  "000000122199.jpg",
+  "000000360811.jpg",
+  "000000393909.jpg",
+  "000000023424.jpg",
+  "000000461002.jpg",
+  "000000323705.jpg",
+  "000000326480.jpg"
+ ],
+ "faces": [
+  "face_300399.jpg",
+  "face_380639.jpg",
+  "face_92028.jpg",
+  "face_185015.jpg",
+  "face_476363.jpg",
+  "face_81239.jpg",
+  "face_99874.jpg",
+  "face_333134.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 21,
+   "job_id": 14,
+   "task_name": "persons-NguyenGiaHuy"
+  },
+  "faces": {
+   "task_id": 22,
+   "job_id": 15,
+   "task_name": "faces-NguyenGiaHuy"
+  },
+  "persons-extra": {
+   "task_id": 23,
+   "job_id": 16,
+   "task_name": "persons-extra-NguyenGiaHuy"
+  },
+  "faces-extra": {
+   "task_id": 24,
+   "job_id": 17,
+   "task_name": "faces-extra-NguyenGiaHuy"
+  }
+ },
+ "persons_extra": [
+  "000000125998.jpg",
+  "000000196853.jpg",
+  "000000357549.jpg"
+ ],
+ "faces_extra": [
+  "face_280788.jpg",
+  "face_300200.jpg",
+  "face_379585.jpg",
+  "face_507166.jpg",
+  "face_68290.jpg"
+ ]
+}
